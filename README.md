@@ -1,1 +1,1 @@
-# Fabric-Defects-Detector
+# Fabric Defects Detector
